@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607555011740",
+    "project_id": "yayaya-87dd8",
+    "storage_bucket": "yayaya-87dd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607555011740:android:6cb4f8376727b2e5acd959",
+        "android_client_info": {
+          "package_name": "com.example.appfirabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr8DhB1M_RQb7Y2iQGYPRAspHku9Hq_w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
